@@ -11,7 +11,7 @@
 	<groupId>com.colibri</groupId>
 	<artifactId>sgpfweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sgpfweb</name>
+	<name>sgpafweb</name>
 	<description>programa de auditoria</description>
 
 	<properties>
